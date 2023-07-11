@@ -8,7 +8,7 @@
 :root {
     --darkBlue: #213436;
     --secondColor: #dad1b4;
-    --thirdColor: #89ab66;
+   /*--thirdColor: #89ab66;*/
 }
 html{
     height: 100%;
